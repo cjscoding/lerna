@@ -1,0 +1,12 @@
+{
+  "name": "root",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "main": "./index.js",
+  "devDependencies": {
+    "eslint": "^8.23.1",
+    "lerna": "^5.5.1"
+  }
+}
